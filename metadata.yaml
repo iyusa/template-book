@@ -1,0 +1,15 @@
+---
+title: My book title
+author: Iyus A Muslimin
+rights: MIT License
+lang: id-ID
+tags: [pandoc, book, my-book, etc]
+abstract: |
+  Your summary.
+mainfont: DejaVu Sans
+
+stylesheet: epub.css
+cover-image: cover.png
+toc-title: Table of Contents
+linkReferences: true
+...
